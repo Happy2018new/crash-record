@@ -1,0 +1,1 @@
+cd c1 && go build -buildmode=c-shared -o ../c1.so && cd ../c2 && go build -buildmode=c-shared -o ../c2.so && cd ../
