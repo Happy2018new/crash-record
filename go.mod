@@ -32,6 +32,5 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/kr/binarydist v0.1.0
 	github.com/pterm/pterm v0.12.80
-	go.etcd.io/bbolt v1.4.0
 	golang.org/x/image v0.21.0 // indirect
 )
